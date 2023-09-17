@@ -1,7 +1,7 @@
 
 # Santander Customer Transaction Prediction
 
-## Note: This code (and this README) are very much works in progress and will continuously be updated in the coming weeks!
+## UPDATE Sept. 17th: This code (and this README) are very much works in progress and will continuously be updated in the coming weeks!
 
 ## Project Overview
 
